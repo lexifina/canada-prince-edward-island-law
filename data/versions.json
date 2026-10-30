@@ -1,0 +1,25 @@
+{
+ "country": "CA-PE",
+ "acts": [
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Prince Edward Island: legal system facts (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q1978",
+   "versions": [
+    {
+     "from": "1769-06-28",
+     "units": 1,
+     "source_url": "https://www.wikidata.org/wiki/Q1978",
+     "sha256": "wikidata-entity-Q1978"
+    },
+    {
+     "from": "2026-09-18",
+     "units": 4,
+     "source_url": "https://www.wikidata.org/wiki/Q1978",
+     "sha256": "wikidata-entity-Q1978"
+    }
+   ]
+  }
+ ]
+}
